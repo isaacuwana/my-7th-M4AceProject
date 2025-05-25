@@ -30,9 +30,6 @@ This project demonstrates the end-to-end process of creating an interactive Powe
 * **Data Visualization:**
     * Building interactive dashboards with various visuals like:
         * [e.g., Bar charts, Pie charts, KPI cards, Slicers]
-    * Implementing drill-downs and tooltips for deeper insights.
-* **Report Publishing (Optional - if you published to Power BI Service):**
-
 
 ## How to Use
 
