@@ -38,7 +38,7 @@ This project demonstrates the end-to-end process of creating an interactive Powe
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/isaacuwana/my-7th-M4AceProject.git
     ```
 2.  **Open the Power BI file:**
     * Ensure you have [Microsoft Power BI Desktop](https://powerbi.microsoft.com/downloads/) installed.
@@ -58,12 +58,3 @@ This project demonstrates the end-to-end process of creating an interactive Powe
 
 * **Tutorial by:** Alex the Analyst - https://www.youtube.com/watch?v=pixlHHe_lNQ&t=21s
 * **M4Ace Data Analysis Bootcamp:**
-
----
-
-    ## Dashboard Preview
-    ![Dashboard Screenshot](images/dashboard_screenshot.png)
-    ```
-* Make sure the links (to the video, dataset, your profiles) are correct.
-
-Good luck with your GitHub portfolio!
